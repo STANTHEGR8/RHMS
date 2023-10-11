@@ -1,5 +1,5 @@
 # Hospital Management System (HMS)
-The Hospital Management System In C++ With Source Code is developed using C++ programming language. It’s easy to keep track of and monitor the patients in this hospital with this C++ source code hospital administration system.
+TheisHospital Management System In C++ With Source Code is developed using C++ programming language . It’s easy to keep track of and monitor the patients in this hospital with this C++ source code hospital administration system. This a simplistic version of hospital management system for our course project.
 
 ## Table of Contents
 
@@ -16,9 +16,7 @@ The Hospital Management System In C++ With Source Code is developed using C++ pr
 - **Patient Management:** Easily manage patient records, including personal information, medical history, and appointment details.
 - **Appointment Scheduling:** Efficiently schedule and manage patient appointments, reducing waiting times.
 - **Billing and Invoicing:** Generate bills and invoices for patient services and manage payments.
-- **Pharmacy and Inventory Management:** Keep track of medicines, supplies, and inventory efficiently.
 - **Doctor and Staff Management:** Manage doctor and staff records, roles, and schedules.
-- **Reports and Analytics:** Generate various reports for data analysis and decision-making.
 
 ## Getting Started
 
